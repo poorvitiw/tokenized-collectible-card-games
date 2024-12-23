@@ -9,6 +9,8 @@ The game also features a mechanism for listing cards for sale and buying cards w
 
 ## Contract Address
 0x40a789ddFafB465CC6E317130158bD86e9D88157
+![image](https://github.com/user-attachments/assets/01a5af69-05c7-4467-b30f-e48c65ed2616)
+
 
 ## Project Vision
 The vision behind EduChain Card Game is to create an engaging and transparent collectible card game experience on the blockchain. By leveraging the power of Ethereum and NFTs, we aim to empower players with true ownership of their cards, allowing them to buy, sell, and trade freely within a decentralized ecosystem.
